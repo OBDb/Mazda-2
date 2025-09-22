@@ -1,0 +1,26 @@
+command_id: 793.22D901
+test_cases:
+- expected_values:
+    MAZDA_CC_TGT_DIST: 2.25
+  response: 79B0562D9010009
+- expected_values:
+    MAZDA_CC_TGT_DIST: 3.75
+  response: 79B0562D901000F
+- expected_values:
+    MAZDA_CC_TGT_DIST: 4
+  response: 79B0562D9010010
+- expected_values:
+    MAZDA_CC_TGT_DIST: 5
+  response: 79B0562D9010014
+- expected_values:
+    MAZDA_CC_TGT_DIST: 5.5
+  response: 79B0562D9010016
+- expected_values:
+    MAZDA_CC_TGT_DIST: 7.5
+  response: 79B0562D901001E
+- expected_values:
+    MAZDA_CC_TGT_DIST: 8.25
+  response: 79B0562D9010021
+- expected_values:
+    MAZDA_CC_TGT_DIST: 15.75
+  response: 79B0562D901003F
