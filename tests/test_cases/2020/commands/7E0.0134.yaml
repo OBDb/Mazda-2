@@ -5,9 +5,9 @@ test_cases:
     O2S11_CURRENT: -0.60938
   response: 7E8064134727A7F64
 - expected_values:
-    LAMBDA11_CURRENT: 0.99231
+    LAMBDA11_CURRENT: 0.99161
     O2S11_CURRENT: 0
-  response: 7E80641347F048000
+  response: 7E80641347EED8000
 - expected_values:
     LAMBDA11_CURRENT: 1
     O2S11_CURRENT: -0.50391
