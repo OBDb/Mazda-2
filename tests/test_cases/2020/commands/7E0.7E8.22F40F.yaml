@@ -4,5 +4,5 @@ test_cases:
     MAZDA_IAT_ALT2: 4
   response: 7E80462F40F2C
 - expected_values:
-    MAZDA_IAT_ALT2: 17
-  response: 7E80462F40F39
+    MAZDA_IAT_ALT2: 34
+  response: 7E80462F40F4A
