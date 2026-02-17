@@ -5,9 +5,9 @@ test_cases:
     MAZDA_[ECU] CL LAMBDA CORR: 0.00037
   response: 7E8056203BD0003
 - expected_values:
-    MAZDA_CL_LC: 0.125
-    MAZDA_[ECU] CL LAMBDA CORR: 0.125
-  response: 7E8056203BD0400
+    MAZDA_CL_LC: 0.03125
+    MAZDA_[ECU] CL LAMBDA CORR: 0.03125
+  response: 7E8056203BD0100
 - expected_values:
     MAZDA_CL_LC: 0.31238
     MAZDA_[ECU] CL LAMBDA CORR: 0.31238
