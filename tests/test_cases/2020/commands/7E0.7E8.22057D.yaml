@@ -4,5 +4,5 @@ test_cases:
     MAZDA_AAT_ALT: -6
   response: 7E80462057D44
 - expected_values:
-    MAZDA_AAT_ALT: 21
-  response: 7E80462057D7A
+    MAZDA_AAT_ALT: 22
+  response: 7E80462057D7C
