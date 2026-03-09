@@ -10,5 +10,5 @@ test_cases:
     MAZDA_ODO_TRIP: 4505.6
   response: 7280662DD0100B000
 - expected_values:
-    MAZDA_ODO_TRIP: 4608.1
-  response: 7280662DD0100B401
+    MAZDA_ODO_TRIP: 4633.6
+  response: 7280662DD0100B500
