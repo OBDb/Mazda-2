@@ -1,0 +1,22 @@
+command_id: 7E0.7E8.22032B
+test_cases:
+- expected_values:
+    MAZDA_ACC_POS: 0
+    MAZDA_[ECU] ACCELERATOR PEDAL POSITION: 0
+  response: 7E80462032B00
+- expected_values:
+    MAZDA_ACC_POS: 10.5
+    MAZDA_[ECU] ACCELERATOR PEDAL POSITION: 10.5
+  response: 7E80462032B15
+- expected_values:
+    MAZDA_ACC_POS: 11.5
+    MAZDA_[ECU] ACCELERATOR PEDAL POSITION: 11.5
+  response: 7E80462032B17
+- expected_values:
+    MAZDA_ACC_POS: 15.5
+    MAZDA_[ECU] ACCELERATOR PEDAL POSITION: 15.5
+  response: 7E80462032B1F
+- expected_values:
+    MAZDA_ACC_POS: 19.5
+    MAZDA_[ECU] ACCELERATOR PEDAL POSITION: 19.5
+  response: 7E80462032B27
