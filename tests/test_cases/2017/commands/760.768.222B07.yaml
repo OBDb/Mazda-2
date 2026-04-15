@@ -1,0 +1,23 @@
+command_id: 760.768.222B07
+test_cases:
+- expected_values:
+    MAZDA_FL_VSS: 1
+  response: 76804622B0701
+- expected_values:
+    MAZDA_FL_VSS: 2
+  response: 76804622B0702
+- expected_values:
+    MAZDA_FL_VSS: 7
+  response: 76804622B0707
+- expected_values:
+    MAZDA_FL_VSS: 12
+  response: 76804622B070C
+- expected_values:
+    MAZDA_FL_VSS: 13
+  response: 76804622B070D
+- expected_values:
+    MAZDA_FL_VSS: 14
+  response: 76804622B070E
+- expected_values:
+    MAZDA_FL_VSS: 16
+  response: 76804622B0710
