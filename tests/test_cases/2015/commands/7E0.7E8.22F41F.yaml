@@ -4,26 +4,8 @@ test_cases:
     MAZDA_RUN_TIME: 0
   response: 7E80562F41F0000
 - expected_values:
-    MAZDA_RUN_TIME: 88
-  response: 7E80562F41F0058
+    MAZDA_RUN_TIME: 2043
+  response: 7E80562F41F07FB
 - expected_values:
-    MAZDA_RUN_TIME: 126
-  response: 7E80562F41F007E
-- expected_values:
-    MAZDA_RUN_TIME: 172
-  response: 7E80562F41F00AC
-- expected_values:
-    MAZDA_RUN_TIME: 216
-  response: 7E80562F41F00D8
-- expected_values:
-    MAZDA_RUN_TIME: 245
-  response: 7E80562F41F00F5
-- expected_values:
-    MAZDA_RUN_TIME: 277
-  response: 7E80562F41F0115
-- expected_values:
-    MAZDA_RUN_TIME: 307
-  response: 7E80562F41F0133
-- expected_values:
-    MAZDA_RUN_TIME: 344
-  response: 7E80562F41F0158
+    MAZDA_RUN_TIME: 2076
+  response: 7E80562F41F081C

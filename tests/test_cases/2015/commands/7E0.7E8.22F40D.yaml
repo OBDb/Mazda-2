@@ -4,26 +4,5 @@ test_cases:
     MAZDA_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    MAZDA_VSS: 11
-  response: 7E80462F40D0B
-- expected_values:
-    MAZDA_VSS: 12
-  response: 7E80462F40D0C
-- expected_values:
-    MAZDA_VSS: 20
-  response: 7E80462F40D14
-- expected_values:
-    MAZDA_VSS: 30
-  response: 7E80462F40D1E
-- expected_values:
-    MAZDA_VSS: 33
-  response: 7E80462F40D21
-- expected_values:
-    MAZDA_VSS: 51
-  response: 7E80462F40D33
-- expected_values:
-    MAZDA_VSS: 52
-  response: 7E80462F40D34
-- expected_values:
-    MAZDA_VSS: 54
-  response: 7E80462F40D36
+    MAZDA_VSS: 98
+  response: 7E80462F40D62

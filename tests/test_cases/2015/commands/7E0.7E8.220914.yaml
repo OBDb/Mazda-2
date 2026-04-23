@@ -4,17 +4,11 @@ test_cases:
     MAZDA_APP1_V: 0.779
   response: 7E805620914030B
 - expected_values:
-    MAZDA_APP1_V: 0.78
-  response: 7E805620914030C
+    MAZDA_APP1_V: 1.283
+  response: '7E8056209140503'
 - expected_values:
-    MAZDA_APP1_V: 1.158
-  response: '7E8056209140486'
+    MAZDA_APP1_V: 1.778
+  response: 7E80562091406F2
 - expected_values:
-    MAZDA_APP1_V: 1.505
-  response: 7E80562091405E1
-- expected_values:
-    MAZDA_APP1_V: 1.681
-  response: '7E8056209140691'
-- expected_values:
-    MAZDA_APP1_V: 1.873
-  response: '7E8056209140751'
+    MAZDA_APP1_V: 3.674
+  response: 7E8056209140E5A
