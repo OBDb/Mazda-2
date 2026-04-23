@@ -1,6 +1,10 @@
 command_id: 7E0.7E8.22093C
 test_cases:
 - expected_values:
+    MAZDA_ETC_ACT_DEG: 2.25977
+    MAZDA_ETC_ANG_ACT: 2.25977
+  response: 7E80562093C0485
+- expected_values:
     MAZDA_ETC_ACT_DEG: 3.53711
     MAZDA_ETC_ANG_ACT: 3.53711
   response: 7E80562093C0713
@@ -9,34 +13,6 @@ test_cases:
     MAZDA_ETC_ANG_ACT: 4.99805
   response: 7E80562093C09FF
 - expected_values:
-    MAZDA_ETC_ACT_DEG: 5.5625
-    MAZDA_ETC_ANG_ACT: 5.5625
-  response: 7E80562093C0B20
-- expected_values:
-    MAZDA_ETC_ACT_DEG: 6.35742
-    MAZDA_ETC_ANG_ACT: 6.35742
-  response: 7E80562093C0CB7
-- expected_values:
-    MAZDA_ETC_ACT_DEG: 7.20312
-    MAZDA_ETC_ANG_ACT: 7.20312
-  response: 7E80562093C0E68
-- expected_values:
-    MAZDA_ETC_ACT_DEG: 8.5625
-    MAZDA_ETC_ANG_ACT: 8.5625
-  response: 7E80562093C1120
-- expected_values:
-    MAZDA_ETC_ACT_DEG: 11.35547
-    MAZDA_ETC_ANG_ACT: 11.35547
-  response: 7E80562093C16B6
-- expected_values:
-    MAZDA_ETC_ACT_DEG: 12.92188
-    MAZDA_ETC_ANG_ACT: 12.92188
-  response: 7E80562093C19D8
-- expected_values:
-    MAZDA_ETC_ACT_DEG: 12.94727
-    MAZDA_ETC_ANG_ACT: 12.94727
-  response: 7E80562093C19E5
-- expected_values:
-    MAZDA_ETC_ACT_DEG: 14.79102
-    MAZDA_ETC_ANG_ACT: 14.79102
-  response: 7E80562093C1D95
+    MAZDA_ETC_ACT_DEG: 86.18945
+    MAZDA_ETC_ANG_ACT: 86.18945
+  response: 7E80562093CAC61

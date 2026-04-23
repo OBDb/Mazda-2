@@ -4,26 +4,8 @@ test_cases:
     MAZDA_RO2_V: 0
   response: 7E80562035F0000
 - expected_values:
-    MAZDA_RO2_V: 0.0918
-  response: 7E80562035F005E
+    MAZDA_RO2_V: 0.74512
+  response: 7E80562035F02FB
 - expected_values:
-    MAZDA_RO2_V: 0.10254
-  response: 7E80562035F0069
-- expected_values:
-    MAZDA_RO2_V: 0.14746
-  response: 7E80562035F0097
-- expected_values:
-    MAZDA_RO2_V: 0.64844
-  response: 7E80562035F0298
-- expected_values:
-    MAZDA_RO2_V: 0.71875
-  response: 7E80562035F02E0
-- expected_values:
-    MAZDA_RO2_V: 0.80469
-  response: 7E80562035F0338
-- expected_values:
-    MAZDA_RO2_V: 0.80957
-  response: 7E80562035F033D
-- expected_values:
-    MAZDA_RO2_V: 0.87012
-  response: 7E80562035F037B
+    MAZDA_RO2_V: 0.75
+  response: 7E80562035F0300
