@@ -3,3 +3,27 @@ test_cases:
 - expected_values:
     MAZDA_GEN_FC: 0
   response: 7E8056216E80000
+- expected_values:
+    MAZDA_GEN_FC: 53.35164
+  response: 7E8056216E8444A
+- expected_values:
+    MAZDA_GEN_FC: 58.90898
+  response: 7E8056216E84B67
+- expected_values:
+    MAZDA_GEN_FC: 61.40536
+  response: 7E8056216E84E99
+- expected_values:
+    MAZDA_GEN_FC: 62.36362
+  response: 7E8056216E84FD3
+- expected_values:
+    MAZDA_GEN_FC: 67.24651
+  response: 7E8056216E85613
+- expected_values:
+    MAZDA_GEN_FC: 67.47539
+  response: 7E8056216E8565E
+- expected_values:
+    MAZDA_GEN_FC: 70.2678
+  response: 7E8056216E859F1
+- expected_values:
+    MAZDA_GEN_FC: 73.33181
+  response: 7E8056216E85DDD

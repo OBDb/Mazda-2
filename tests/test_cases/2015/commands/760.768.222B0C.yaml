@@ -9,3 +9,12 @@ test_cases:
 - expected_values:
     MAZDA_LAT_ANG: 0
   response: 76805622B0C0004
+- expected_values:
+    MAZDA_LAT_ANG: 0
+  response: 76805622B0C000B
+- expected_values:
+    MAZDA_LAT_ANG: -1
+  response: 76805622B0CFFE8
+- expected_values:
+    MAZDA_LAT_ANG: -1
+  response: 76805622B0CFFF7
