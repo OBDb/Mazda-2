@@ -4,11 +4,11 @@ test_cases:
     MAZDA_EOT: 8.24
   response: 7E80562131012D8
 - expected_values:
-    MAZDA_EOT: 20.58
-  response: 7E80562131017AA
+    MAZDA_EOT: 12.13
+  response: 7E805621310145D
 - expected_values:
-    MAZDA_EOT: 36.8
-  response: 7E8056213101E00
+    MAZDA_EOT: 47.04
+  response: '7E8056213102200'
 - expected_values:
     MAZDA_EOT: 93.11
   response: 7E80562131033FF
