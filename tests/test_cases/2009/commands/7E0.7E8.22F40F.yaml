@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F40F
+test_cases:
+- expected_values:
+    MAZDA_IAT_ALT2: 36
+  response: 7E80462F40F4C
+- expected_values:
+    MAZDA_IAT_ALT2: 45
+  response: 7E80462F40F55
+- expected_values:
+    MAZDA_IAT_ALT2: 47
+  response: 7E80462F40F57
+- expected_values:
+    MAZDA_IAT_ALT2: 53
+  response: 7E80462F40F5D
