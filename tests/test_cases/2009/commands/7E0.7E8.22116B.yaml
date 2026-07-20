@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22116B
+test_cases:
+- expected_values:
+    MAZDA_IGN_TIM_CYL1: 1.75
+  response: 7E80562116B0007
+- expected_values:
+    MAZDA_IGN_TIM_CYL1: 2
+  response: 7E80562116B0008
+- expected_values:
+    MAZDA_IGN_TIM_CYL1: 6
+  response: 7E80562116B0018
+- expected_values:
+    MAZDA_IGN_TIM_CYL1: -8
+  response: 7E80562116BFFE0
