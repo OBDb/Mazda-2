@@ -4,11 +4,8 @@ test_cases:
     MAZDA_ODO_BCM: 148527
   response: 7680662DD0102442F
 - expected_values:
-    MAZDA_ODO_BCM: 151326
-  response: 7680662DD01024F1E
-- expected_values:
-    MAZDA_ODO_BCM: 151802
-  response: 7680662DD010250FA
-- expected_values:
     MAZDA_ODO_BCM: 151806
   response: 7680662DD010250FE
+- expected_values:
+    MAZDA_ODO_BCM: 151820
+  response: 7680662DD0102510C
