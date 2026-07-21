@@ -8,6 +8,9 @@ test_cases:
   response: 7E80562099B0020
 - expected_values:
     MAZDA_AC_STATE: 0
+  response: 7E80562099B0080
+- expected_values:
+    MAZDA_AC_STATE: 0
   response: 7E80562099B00A0
 - expected_values:
     MAZDA_AC_STATE: 1
