@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220393
+test_cases:
+- expected_values:
+    MAZDA_AC_P: 107.03786
+    MAZDA_[ECU] AC Pressure: 107.03786
+  response: '7E8056203930171'
+- expected_values:
+    MAZDA_AC_P: 221.90775
+    MAZDA_[ECU] AC Pressure: 221.90775
+  response: 7E80562039302FD
+- expected_values:
+    MAZDA_AC_P: 297.03731
+    MAZDA_[ECU] AC Pressure: 297.03731
+  response: '7E8056203930400'

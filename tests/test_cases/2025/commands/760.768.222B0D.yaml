@@ -1,0 +1,38 @@
+command_id: 760.768.222B0D
+test_cases:
+- expected_values:
+    MAZDA_BRAKE_P: 0
+    MAZDA_BRK_FL_P: 0
+  response: 76805622B0D0000
+- expected_values:
+    MAZDA_BRAKE_P: 1
+    MAZDA_BRK_FL_P: 1
+  response: 76805622B0D0001
+- expected_values:
+    MAZDA_BRAKE_P: 9
+    MAZDA_BRK_FL_P: 9
+  response: 76805622B0D0009
+- expected_values:
+    MAZDA_BRAKE_P: 18
+    MAZDA_BRK_FL_P: 18
+  response: 76805622B0D0012
+- expected_values:
+    MAZDA_BRAKE_P: 39
+    MAZDA_BRK_FL_P: 39
+  response: 76805622B0D0027
+- expected_values:
+    MAZDA_BRAKE_P: 50
+    MAZDA_BRK_FL_P: 50
+  response: 76805622B0D0032
+- expected_values:
+    MAZDA_BRAKE_P: 75
+    MAZDA_BRK_FL_P: 75
+  response: 76805622B0D004B
+- expected_values:
+    MAZDA_BRAKE_P: 79
+    MAZDA_BRK_FL_P: 79
+  response: 76805622B0D004F
+- expected_values:
+    MAZDA_BRAKE_P: 126
+    MAZDA_BRK_FL_P: 126
+  response: 76805622B0D007E
