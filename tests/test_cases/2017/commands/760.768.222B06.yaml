@@ -1,17 +1,22 @@
 command_id: 760.768.222B06
 test_cases:
 - expected_values:
+    MAZDA_FL_WHL_SPD_760: 2
     MAZDA_FR_VSS: 2
   response: 76804622B0602
 - expected_values:
+    MAZDA_FL_WHL_SPD_760: 7
     MAZDA_FR_VSS: 7
   response: 76804622B0607
 - expected_values:
+    MAZDA_FL_WHL_SPD_760: 13
     MAZDA_FR_VSS: 13
   response: 76804622B060D
 - expected_values:
+    MAZDA_FL_WHL_SPD_760: 14
     MAZDA_FR_VSS: 14
   response: 76804622B060E
 - expected_values:
+    MAZDA_FL_WHL_SPD_760: 16
     MAZDA_FR_VSS: 16
   response: 76804622B0610

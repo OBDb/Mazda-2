@@ -1,14 +1,18 @@
 command_id: 760.768.222B0D
 test_cases:
 - expected_values:
-    MAZDA_BRK_FL_P: 0
+    MAZDA_BRAKE_P: 1
+    MAZDA_BRK_FL_P: 1
   response: 76805622B0D0001
 - expected_values:
-    MAZDA_BRK_FL_P: 0
+    MAZDA_BRAKE_P: 2
+    MAZDA_BRK_FL_P: 2
   response: 76805622B0D0002
 - expected_values:
-    MAZDA_BRK_FL_P: 0
+    MAZDA_BRAKE_P: 5
+    MAZDA_BRK_FL_P: 5
   response: 76805622B0D0005
 - expected_values:
-    MAZDA_BRK_FL_P: 0
+    MAZDA_BRAKE_P: 31
+    MAZDA_BRK_FL_P: 31
   response: 76805622B0D001F

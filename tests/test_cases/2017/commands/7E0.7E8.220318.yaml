@@ -1,26 +1,34 @@
 command_id: 7E0.7E8.220318
 test_cases:
 - expected_values:
-    MAZDA_VCT_INT_ACT: 0
+    MAZDA_VCT_INT_ACT: 9.875
+    MAZDA_[ECU] VCT intake actual: 0
   response: 7E805620318009E
 - expected_values:
-    MAZDA_VCT_INT_ACT: 0
+    MAZDA_VCT_INT_ACT: 10.3125
+    MAZDA_[ECU] VCT intake actual: 0
   response: 7E80562031800A5
 - expected_values:
-    MAZDA_VCT_INT_ACT: 0
+    MAZDA_VCT_INT_ACT: 11.875
+    MAZDA_[ECU] VCT intake actual: 0
   response: 7E80562031800BE
 - expected_values:
-    MAZDA_VCT_INT_ACT: 0
+    MAZDA_VCT_INT_ACT: 17
+    MAZDA_[ECU] VCT intake actual: 0
   response: '7E8056203180110'
 - expected_values:
-    MAZDA_VCT_INT_ACT: 0
+    MAZDA_VCT_INT_ACT: 21.375
+    MAZDA_[ECU] VCT intake actual: 0
   response: '7E8056203180156'
 - expected_values:
-    MAZDA_VCT_INT_ACT: 0
+    MAZDA_VCT_INT_ACT: 24.3125
+    MAZDA_[ECU] VCT intake actual: 0
   response: '7E8056203180185'
 - expected_values:
-    MAZDA_VCT_INT_ACT: 0
+    MAZDA_VCT_INT_ACT: 24.5
+    MAZDA_[ECU] VCT intake actual: 0
   response: '7E8056203180188'
 - expected_values:
-    MAZDA_VCT_INT_ACT: 0
+    MAZDA_VCT_INT_ACT: 24.75
+    MAZDA_[ECU] VCT intake actual: 0
   response: 7E805620318018C

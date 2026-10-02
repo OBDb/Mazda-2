@@ -4,5 +4,5 @@ test_cases:
     MAZDA_VCT_INT_ERR: 0
   response: 7E80562031A0000
 - expected_values:
-    MAZDA_VCT_INT_ERR: 50
+    MAZDA_VCT_INT_ERR: -0.3125
   response: 7E80562031AFFFB

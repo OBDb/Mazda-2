@@ -1,23 +1,30 @@
 command_id: 760.768.222B0C
 test_cases:
 - expected_values:
-    MAZDA_LAT_ANG: 0
+    MAZDA_LATERAL_ANG: 6
+    MAZDA_LAT_ANG: 6
   response: 76805622B0C0006
 - expected_values:
-    MAZDA_LAT_ANG: 0
+    MAZDA_LATERAL_ANG: 9
+    MAZDA_LAT_ANG: 9
   response: 76805622B0C0009
 - expected_values:
-    MAZDA_LAT_ANG: 0
+    MAZDA_LATERAL_ANG: 25
+    MAZDA_LAT_ANG: 25
   response: 76805622B0C0019
 - expected_values:
-    MAZDA_LAT_ANG: -1
+    MAZDA_LATERAL_ANG: -18
+    MAZDA_LAT_ANG: -18
   response: 76805622B0CFFEE
 - expected_values:
-    MAZDA_LAT_ANG: -1
+    MAZDA_LATERAL_ANG: -13
+    MAZDA_LAT_ANG: -13
   response: 76805622B0CFFF3
 - expected_values:
-    MAZDA_LAT_ANG: -1
+    MAZDA_LATERAL_ANG: -9
+    MAZDA_LAT_ANG: -9
   response: 76805622B0CFFF7
 - expected_values:
-    MAZDA_LAT_ANG: -1
+    MAZDA_LATERAL_ANG: -8
+    MAZDA_LAT_ANG: -8
   response: 76805622B0CFFF8

@@ -1,26 +1,34 @@
 command_id: 7E0.7E8.2216E8
 test_cases:
 - expected_values:
+    MAZDA_CMD_GEN_DUTY: 41.44616
     MAZDA_GEN_FC: 41.4435
   response: 7E8056216E8350C
 - expected_values:
+    MAZDA_CMD_GEN_DUTY: 41.64149
     MAZDA_GEN_FC: 41.63882
   response: 7E8056216E8354C
 - expected_values:
+    MAZDA_CMD_GEN_DUTY: 43.9427
     MAZDA_GEN_FC: 43.93988
   response: 7E8056216E8383E
 - expected_values:
+    MAZDA_CMD_GEN_DUTY: 48.49018
     MAZDA_GEN_FC: 48.48707
   response: 7E8056216E83E10
 - expected_values:
+    MAZDA_CMD_GEN_DUTY: 48.96018
     MAZDA_GEN_FC: 48.95705
   response: 7E8056216E83EAA
 - expected_values:
+    MAZDA_CMD_GEN_DUTY: 55.14354
     MAZDA_GEN_FC: 55.14
   response: 7E8056216E84694
 - expected_values:
+    MAZDA_CMD_GEN_DUTY: 56.3857
     MAZDA_GEN_FC: 56.38209
   response: 7E8056216E8482B
 - expected_values:
+    MAZDA_CMD_GEN_DUTY: 63.64641
     MAZDA_GEN_FC: 63.64233
   response: 7E8056216E85176

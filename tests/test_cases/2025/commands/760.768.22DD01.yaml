@@ -1,0 +1,18 @@
+command_id: 760.768.22DD01
+test_cases:
+- expected_values:
+    MAZDA_ABS_ODO: 2034
+    MAZDA_ODO_BCM: 2034
+  response: 7680662DD010007F2
+- expected_values:
+    MAZDA_ABS_ODO: 2041
+    MAZDA_ODO_BCM: 2041
+  response: 7680662DD010007F9
+- expected_values:
+    MAZDA_ABS_ODO: 2049
+    MAZDA_ODO_BCM: 2049
+  response: 7680662DD01000801
+- expected_values:
+    MAZDA_ABS_ODO: 2307
+    MAZDA_ODO_BCM: 2307
+  response: 7680662DD01000903

@@ -1,11 +1,14 @@
 command_id: 760.768.22DD01
 test_cases:
 - expected_values:
+    MAZDA_ABS_ODO: 148527
     MAZDA_ODO_BCM: 148527
   response: 7680662DD0102442F
 - expected_values:
+    MAZDA_ABS_ODO: 151806
     MAZDA_ODO_BCM: 151806
   response: 7680662DD010250FE
 - expected_values:
+    MAZDA_ABS_ODO: 151820
     MAZDA_ODO_BCM: 151820
   response: 7680662DD0102510C

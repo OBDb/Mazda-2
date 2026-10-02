@@ -1,26 +1,34 @@
 command_id: 7E0.7E8.22F404
 test_cases:
 - expected_values:
+    MAZDA_CALC_LOAD: 21.17647
     MAZDA_ENG_LOAD_PCT: 21.17647
   response: 7E80462F40436
 - expected_values:
+    MAZDA_CALC_LOAD: 24.70588
     MAZDA_ENG_LOAD_PCT: 24.70588
   response: 7E80462F4043F
 - expected_values:
+    MAZDA_CALC_LOAD: 30.58824
     MAZDA_ENG_LOAD_PCT: 30.58824
   response: 7E80462F4044E
 - expected_values:
+    MAZDA_CALC_LOAD: 45.09804
     MAZDA_ENG_LOAD_PCT: 45.09804
   response: 7E80462F40473
 - expected_values:
+    MAZDA_CALC_LOAD: 46.27451
     MAZDA_ENG_LOAD_PCT: 46.27451
   response: 7E80462F40476
 - expected_values:
+    MAZDA_CALC_LOAD: 51.76471
     MAZDA_ENG_LOAD_PCT: 51.76471
   response: 7E80462F40484
 - expected_values:
+    MAZDA_CALC_LOAD: 53.33333
     MAZDA_ENG_LOAD_PCT: 53.33333
   response: 7E80462F40488
 - expected_values:
+    MAZDA_CALC_LOAD: 58.43137
     MAZDA_ENG_LOAD_PCT: 58.43137
   response: 7E80462F40495

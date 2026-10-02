@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.22F443
+test_cases:
+- expected_values:
+    MAZDA_ENG_LOAD_ACT: 0
+    MAZDA_LOAD: 0
+  response: 7E80562F4430000
+- expected_values:
+    MAZDA_ENG_LOAD_ACT: 81.17647
+    MAZDA_LOAD: 81.17647
+  response: 7E80562F44300CF
