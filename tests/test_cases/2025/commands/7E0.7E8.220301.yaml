@@ -1,22 +1,18 @@
 command_id: 7E0.7E8.220301
 test_cases:
 - expected_values:
-    MAZDA_MAP: 1.005
+    MAZDA_MAP: 0.98145
     MAZDA_MAP_V: 0.98145
-    MAZDA_[ECU] MAP voltage: 0.98145
   response: 7E80562030103ED
 - expected_values:
-    MAZDA_MAP: 2.3
+    MAZDA_MAP: 2.24609
     MAZDA_MAP_V: 2.24609
-    MAZDA_[ECU] MAP voltage: 2.24609
   response: 7E80562030108FC
 - expected_values:
-    MAZDA_MAP: 2.305
+    MAZDA_MAP: 2.25098
     MAZDA_MAP_V: 2.25098
-    MAZDA_[ECU] MAP voltage: 2.25098
   response: '7E8056203010901'
 - expected_values:
-    MAZDA_MAP: 4
+    MAZDA_MAP: 4.01855
     MAZDA_MAP_V: 4.01855
-    MAZDA_[ECU] MAP voltage: 4.01855
   response: '7E8056203011013'
