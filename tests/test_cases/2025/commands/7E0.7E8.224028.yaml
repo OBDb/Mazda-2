@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.224028
+test_cases:
+- expected_values:
+    MAZDA_BAT_ESTIMATED_ST_CHG: 90
+  response: 7E8046240285A

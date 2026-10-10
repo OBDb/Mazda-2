@@ -9,6 +9,6 @@ test_cases:
     MAZDA_[ECU] VCT intake actual: 0
   response: 7E80562031802FB
 - expected_values:
-    MAZDA_VCT_INT_ACT: 50.5
+    MAZDA_VCT_INT_ACT: 50.3125
     MAZDA_[ECU] VCT intake actual: 0
-  response: '7E8056203180328'
+  response: '7E8056203180325'

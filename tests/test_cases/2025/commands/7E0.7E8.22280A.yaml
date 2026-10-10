@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22280A
+test_cases:
+- expected_values:
+    MAZDA_BRAKE_FLUID_P: 0
+  response: 7E80562280A0000
+- expected_values:
+    MAZDA_BRAKE_FLUID_P: 292.1875
+  response: 7E80562280A0176
+- expected_values:
+    MAZDA_BRAKE_FLUID_P: 342.96875
+  response: 7E80562280A01B7
+- expected_values:
+    MAZDA_BRAKE_FLUID_P: 420.3125
+  response: 7E80562280A021A

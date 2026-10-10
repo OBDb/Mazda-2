@@ -1,0 +1,8 @@
+command_id: '730.223301'
+test_cases:
+- expected_values:
+    MAZDA_STEER_WHL_ANG: 52
+  response: 738046233010D
+- expected_values:
+    MAZDA_STEER_WHL_ANG: 100
+  response: '7380462330119'

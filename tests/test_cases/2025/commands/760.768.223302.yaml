@@ -1,0 +1,10 @@
+command_id: 760.768.223302
+test_cases:
+- expected_values:
+    MAZDA_BCM_STEER_ANG_ACT: -1.5
+    MAZDA_STEER_ANG_ACT: 778.5
+  response: '768056233021E69'
+- expected_values:
+    MAZDA_BCM_STEER_ANG_ACT: 0
+    MAZDA_STEER_ANG_ACT: 780
+  response: '768056233021E78'

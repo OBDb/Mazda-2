@@ -13,6 +13,6 @@ test_cases:
     MAZDA_ODO_BCM: 2049
   response: 7680662DD01000801
 - expected_values:
-    MAZDA_ABS_ODO: 2307
-    MAZDA_ODO_BCM: 2307
-  response: 7680662DD01000903
+    MAZDA_ABS_ODO: 2916
+    MAZDA_ODO_BCM: 2916
+  response: 7680662DD01000B64

@@ -1,0 +1,9 @@
+command_id: 7E0.7E8.22DAB6
+test_cases:
+- expected_values:
+    MAZDA_MIS_AVG_1: 9471
+    MAZDA_MIS_AVG_2: 63500
+    MAZDA_MIS_AVG_3: 20486
+  response: |-
+    7E8100A62DAB624FFF8
+    7E8210C500658000000
