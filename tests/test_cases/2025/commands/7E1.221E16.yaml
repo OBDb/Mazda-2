@@ -1,0 +1,8 @@
+command_id: 7E1.221E16
+test_cases:
+- expected_values:
+    MAZDA_ACT_GEAR_RAT: 0.74219
+  response: 7E905621E160BE0
+- expected_values:
+    MAZDA_ACT_GEAR_RAT: 1.3479
+  response: 7E905621E161591

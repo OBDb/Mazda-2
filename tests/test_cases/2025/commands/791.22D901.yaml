@@ -1,0 +1,5 @@
+command_id: 791.22D901
+test_cases:
+- expected_values:
+    MAZDA_CHG_MS_CAN: 254
+  response: 73F0562D901FF00

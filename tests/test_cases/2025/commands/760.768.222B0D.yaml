@@ -25,6 +25,10 @@ test_cases:
     MAZDA_BRK_FL_P: 50
   response: 76805622B0D0032
 - expected_values:
+    MAZDA_BRAKE_P: 58
+    MAZDA_BRK_FL_P: 58
+  response: 76805622B0D003A
+- expected_values:
     MAZDA_BRAKE_P: 75
     MAZDA_BRK_FL_P: 75
   response: 76805622B0D004B

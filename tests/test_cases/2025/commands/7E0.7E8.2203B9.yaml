@@ -1,0 +1,22 @@
+command_id: 7E0.7E8.2203B9
+test_cases:
+- expected_values:
+    MAZDA_COOLING_FAN_DUTY: 0
+    MAZDA_FAN_SPD_DES: 0
+  response: 7E8056203B90000
+- expected_values:
+    MAZDA_COOLING_FAN_DUTY: 20.00153
+    MAZDA_FAN_SPD_DES: 20.00153
+  response: 7E8056203B9199A
+- expected_values:
+    MAZDA_COOLING_FAN_DUTY: 45.60311
+    MAZDA_FAN_SPD_DES: 45.60311
+  response: 7E8056203B93A5F
+- expected_values:
+    MAZDA_COOLING_FAN_DUTY: 45.99374
+    MAZDA_FAN_SPD_DES: 45.99374
+  response: 7E8056203B93ADF
+- expected_values:
+    MAZDA_COOLING_FAN_DUTY: 46.18601
+    MAZDA_FAN_SPD_DES: 46.18601
+  response: 7E8056203B93B1E

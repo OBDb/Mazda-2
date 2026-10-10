@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.220416
+test_cases:
+- expected_values:
+    MAZDA_GLOW_PLUG_CMD_STAT: -4
+    MAZDA_LOW_OIL_P_SWITCH: 0
+  response: '7E80762041600000000'
+- expected_values:
+    MAZDA_GLOW_PLUG_CMD_STAT: -4
+    MAZDA_LOW_OIL_P_SWITCH: 1
+  response: '7E80762041600000200'

@@ -1,0 +1,8 @@
+command_id: 730.738.22330C
+test_cases:
+- expected_values:
+    MAZDA_STEER_SHFT_TQ: -2
+  response: 7380462330C6B
+- expected_values:
+    MAZDA_STEER_SHFT_TQ: 2.1
+  response: 7380462330C94

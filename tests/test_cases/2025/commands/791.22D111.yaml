@@ -1,0 +1,8 @@
+command_id: 791.22D111
+test_cases:
+- expected_values:
+    MAZDA_V_SUP_MS_CAN: 13.5
+  response: 73B0462D11187
+- expected_values:
+    MAZDA_V_SUP_MS_CAN: 13.7
+  response: 73B0462D11189

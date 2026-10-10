@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22D988
+test_cases:
+- expected_values:
+    MAZDA_BAT_ACCUMULATED_AMP: 50.265
+  response: 7E80562D9887565
+- expected_values:
+    MAZDA_BAT_ACCUMULATED_AMP: 50.295
+  response: 7E80562D988756B
+- expected_values:
+    MAZDA_BAT_ACCUMULATED_AMP: 50.315
+  response: 7E80562D988756F
+- expected_values:
+    MAZDA_BAT_ACCUMULATED_AMP: 50.335
+  response: 7E80562D9887573
+- expected_values:
+    MAZDA_BAT_ACCUMULATED_AMP: 50.345
+  response: 7E80562D9887575
+- expected_values:
+    MAZDA_BAT_ACCUMULATED_AMP: 50.36
+  response: 7E80562D9887578
+- expected_values:
+    MAZDA_BAT_ACCUMULATED_AMP: 50.38
+  response: 7E80562D988757C
+- expected_values:
+    MAZDA_BAT_ACCUMULATED_AMP: 50.395
+  response: 7E80562D988757F

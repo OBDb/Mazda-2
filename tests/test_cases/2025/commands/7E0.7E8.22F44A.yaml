@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22F44A
+test_cases:
+- expected_values:
+    MAZDA_M3_APP_CAN: 7.84314
+  response: 7E80462F44A14
+- expected_values:
+    MAZDA_M3_APP_CAN: 11.37255
+  response: 7E80462F44A1D
+- expected_values:
+    MAZDA_M3_APP_CAN: 14.5098
+  response: 7E80462F44A25
+- expected_values:
+    MAZDA_M3_APP_CAN: 15.29412
+  response: 7E80462F44A27
+- expected_values:
+    MAZDA_M3_APP_CAN: 15.68627
+  response: 7E80462F44A28

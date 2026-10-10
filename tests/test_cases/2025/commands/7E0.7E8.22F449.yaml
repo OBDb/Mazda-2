@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22F449
+test_cases:
+- expected_values:
+    MAZDA_M3_APP_ECM: 15.68627
+  response: 7E80462F44928
+- expected_values:
+    MAZDA_M3_APP_ECM: 18.03922
+  response: 7E80462F4492E
+- expected_values:
+    MAZDA_M3_APP_ECM: 19.21569
+  response: 7E80462F44931
+- expected_values:
+    MAZDA_M3_APP_ECM: 26.27451
+  response: 7E80462F44943
+- expected_values:
+    MAZDA_M3_APP_ECM: 27.45098
+  response: 7E80462F44946
+- expected_values:
+    MAZDA_M3_APP_ECM: 32.54902
+  response: 7E80462F44953
+- expected_values:
+    MAZDA_M3_APP_ECM: 34.11765
+  response: 7E80462F44957
