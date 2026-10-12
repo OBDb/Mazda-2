@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22F40E
+test_cases:
+- expected_values:
+    MAZDA_IGN_ANG_BTDC: 24.5
+  response: 7E80462F40EB1
+- expected_values:
+    MAZDA_IGN_ANG_BTDC: 28
+  response: 7E80462F40EB8
+- expected_values:
+    MAZDA_IGN_ANG_BTDC: 30
+  response: 7E80462F40EBC
+- expected_values:
+    MAZDA_IGN_ANG_BTDC: 33.5
+  response: 7E80462F40EC3
+- expected_values:
+    MAZDA_IGN_ANG_BTDC: 37
+  response: 7E80462F40ECA
+- expected_values:
+    MAZDA_IGN_ANG_BTDC: 37.5
+  response: 7E80462F40ECB
+- expected_values:
+    MAZDA_IGN_ANG_BTDC: 38
+  response: 7E80462F40ECC
+- expected_values:
+    MAZDA_IGN_ANG_BTDC: 40
+  response: 7E80462F40ED0

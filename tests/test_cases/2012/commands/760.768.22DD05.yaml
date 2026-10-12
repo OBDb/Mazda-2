@@ -1,0 +1,5 @@
+command_id: 760.768.22DD05
+test_cases:
+- expected_values:
+    MAZDA_OUTDOOR_T_BCM: 16
+  response: 7680462DD0538

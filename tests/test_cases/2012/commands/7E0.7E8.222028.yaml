@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222028
+test_cases:
+- expected_values:
+    MAZDA_BRAKE_BOOSTER_P: 7.42
+  response: 7E80562202802E6

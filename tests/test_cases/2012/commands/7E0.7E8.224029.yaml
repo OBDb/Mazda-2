@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.224029
+test_cases:
+- expected_values:
+    MAZDA_BAT_FLUID_T: 16
+  response: '7E80462402938'
+- expected_values:
+    MAZDA_BAT_FLUID_T: 17
+  response: '7E80462402939'

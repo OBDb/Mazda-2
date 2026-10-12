@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.220317
+test_cases:
+- expected_values:
+    MAZDA_VCT_EXH_DUTY: 0
+  response: '7E8056203170000'
+- expected_values:
+    MAZDA_VCT_EXH_DUTY: 38.48572
+  response: '7E8056203173143'
+- expected_values:
+    MAZDA_VCT_EXH_DUTY: 38.68103
+  response: '7E8056203173183'
+- expected_values:
+    MAZDA_VCT_EXH_DUTY: 39.58435
+  response: 7E80562031732AB
+- expected_values:
+    MAZDA_VCT_EXH_DUTY: 40.21912
+  response: 7E805620317337B
+- expected_values:
+    MAZDA_VCT_EXH_DUTY: 40.94849
+  response: 7E805620317346A
+- expected_values:
+    MAZDA_VCT_EXH_DUTY: 41.06445
+  response: '7E8056203173490'
+- expected_values:
+    MAZDA_VCT_EXH_DUTY: 41.22314
+  response: 7E80562031734C4
