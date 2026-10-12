@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.221E1C
+test_cases:
+- expected_values:
+    MAZDA_MX_5_TRANS_T_V6: 48
+    MAZDA_TRANS_T: 48
+    MAZDA_TRANS_T_V6: 48
+  response: 7E905621E1C0300
+- expected_values:
+    MAZDA_MX_5_TRANS_T_V6: 50
+    MAZDA_TRANS_T: 50
+    MAZDA_TRANS_T_V6: 50
+  response: 7E905621E1C0320
+- expected_values:
+    MAZDA_MX_5_TRANS_T_V6: 55
+    MAZDA_TRANS_T: 55
+    MAZDA_TRANS_T_V6: 55
+  response: 7E905621E1C0370

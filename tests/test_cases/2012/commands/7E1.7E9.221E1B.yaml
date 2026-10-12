@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221E1B
+test_cases:
+- expected_values:
+    MAZDA_SLAVE_T: 5440
+  response: 7E905621E1B1540
