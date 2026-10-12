@@ -1,5 +1,5 @@
 command_id: 737.73F.225B1A
 test_cases:
 - expected_values:
-    MAZDA_SEAT_BUCKLE: 1
+    MAZDA2_SEAT_BUCKLE: 1
   response: 73F07625B1A02000000

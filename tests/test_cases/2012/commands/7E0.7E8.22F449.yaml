@@ -1,26 +1,26 @@
 command_id: 7E0.7E8.22F449
 test_cases:
 - expected_values:
-    MAZDA_M3_APP_ECM: 34.11765
+    MAZDA2_M3_APP_ECM: 34.11765
   response: 7E80462F44957
 - expected_values:
-    MAZDA_M3_APP_ECM: 37.2549
+    MAZDA2_M3_APP_ECM: 37.2549
   response: 7E80462F4495F
 - expected_values:
-    MAZDA_M3_APP_ECM: 37.64706
+    MAZDA2_M3_APP_ECM: 37.64706
   response: 7E80462F44960
 - expected_values:
-    MAZDA_M3_APP_ECM: 38.03922
+    MAZDA2_M3_APP_ECM: 38.03922
   response: 7E80462F44961
 - expected_values:
-    MAZDA_M3_APP_ECM: 38.82353
+    MAZDA2_M3_APP_ECM: 38.82353
   response: 7E80462F44963
 - expected_values:
-    MAZDA_M3_APP_ECM: 39.21569
+    MAZDA2_M3_APP_ECM: 39.21569
   response: 7E80462F44964
 - expected_values:
-    MAZDA_M3_APP_ECM: 40
+    MAZDA2_M3_APP_ECM: 40
   response: 7E80462F44966
 - expected_values:
-    MAZDA_M3_APP_ECM: 41.96078
+    MAZDA2_M3_APP_ECM: 41.96078
   response: 7E80462F4496B

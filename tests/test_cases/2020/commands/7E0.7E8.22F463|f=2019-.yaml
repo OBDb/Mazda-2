@@ -1,4 +1,4 @@
-command_id: 7E0.7E8.22F463
+command_id: 7E0.7E8.22F463|f=2019-
 test_cases:
 - expected_values:
     MAZDA2_PCM_ENG_REFERENCE_TRQ: 200

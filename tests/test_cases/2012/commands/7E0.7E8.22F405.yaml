@@ -1,20 +1,20 @@
 command_id: 7E0.7E8.22F405
 test_cases:
 - expected_values:
-    MAZDA_CYL_HEAD_T_7E0_2: 67
+    MAZDA2_CYL_HEAD_T_7E0_2: 67
   response: 7E80462F4056B
 - expected_values:
-    MAZDA_CYL_HEAD_T_7E0_2: 70
+    MAZDA2_CYL_HEAD_T_7E0_2: 70
   response: 7E80462F4056E
 - expected_values:
-    MAZDA_CYL_HEAD_T_7E0_2: 71
+    MAZDA2_CYL_HEAD_T_7E0_2: 71
   response: 7E80462F4056F
 - expected_values:
-    MAZDA_CYL_HEAD_T_7E0_2: 72
+    MAZDA2_CYL_HEAD_T_7E0_2: 72
   response: 7E80462F40570
 - expected_values:
-    MAZDA_CYL_HEAD_T_7E0_2: 74
+    MAZDA2_CYL_HEAD_T_7E0_2: 74
   response: 7E80462F40572
 - expected_values:
-    MAZDA_CYL_HEAD_T_7E0_2: 76
+    MAZDA2_CYL_HEAD_T_7E0_2: 76
   response: 7E80462F40574

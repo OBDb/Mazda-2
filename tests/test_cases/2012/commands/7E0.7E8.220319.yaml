@@ -1,30 +1,23 @@
 command_id: 7E0.7E8.220319
 test_cases:
 - expected_values:
-    MAZDA_VCT_EXH_ACT: 21.3125
-    MAZDA_[ECU] VCT exhaust actual: 21.3125
+    MAZDA2_VCT_EXH_ACT: 21.3125
   response: '7E8056203190155'
 - expected_values:
-    MAZDA_VCT_EXH_ACT: 23.125
-    MAZDA_[ECU] VCT exhaust actual: 23.125
+    MAZDA2_VCT_EXH_ACT: 23.125
   response: '7E8056203190172'
 - expected_values:
-    MAZDA_VCT_EXH_ACT: 24.9375
-    MAZDA_[ECU] VCT exhaust actual: 24.9375
+    MAZDA2_VCT_EXH_ACT: 24.9375
   response: 7E805620319018F
 - expected_values:
-    MAZDA_VCT_EXH_ACT: 28.375
-    MAZDA_[ECU] VCT exhaust actual: 28.375
+    MAZDA2_VCT_EXH_ACT: 28.375
   response: 7E80562031901C6
 - expected_values:
-    MAZDA_VCT_EXH_ACT: 33.1875
-    MAZDA_[ECU] VCT exhaust actual: 33.1875
+    MAZDA2_VCT_EXH_ACT: 33.1875
   response: '7E8056203190213'
 - expected_values:
-    MAZDA_VCT_EXH_ACT: 37.4375
-    MAZDA_[ECU] VCT exhaust actual: 37.4375
+    MAZDA2_VCT_EXH_ACT: 37.4375
   response: '7E8056203190257'
 - expected_values:
-    MAZDA_VCT_EXH_ACT: 41.625
-    MAZDA_[ECU] VCT exhaust actual: 41.625
+    MAZDA2_VCT_EXH_ACT: 41.625
   response: 7E805620319029A

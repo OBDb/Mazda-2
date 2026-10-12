@@ -1,4 +1,4 @@
-command_id: 7E0.7E8.22F4A6
+command_id: 7E0.7E8.22F4A6|f=2019-
 test_cases:
 - expected_values:
     MAZDA2_PCM_VEH_ODO: 44355.7

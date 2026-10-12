@@ -1,5 +1,5 @@
 command_id: 737.225B29
 test_cases:
 - expected_values:
-    MAZDA_PASSENGER_AIRBAG_ACTIVATED: 0
+    MAZDA2_PASSENGER_AIRBAG_ACTIVATED: 0
   response: 73F04625B2900
