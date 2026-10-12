@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.22035A
+test_cases:
+- expected_values:
+    MAZDA_BARO_V: 4.10068
+    MAZDA_BARO_V_7E0: 4.10068
+  response: 7E80562035A0347

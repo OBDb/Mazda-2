@@ -1,0 +1,7 @@
+command_id: 760.768.222B0D
+test_cases:
+- expected_values:
+    MAZDA_BRAKE_P: 0
+    MAZDA_BRK_FL_P: 0
+    MAZDA_MAX_BRK_FL_P: 0
+  response: 76805622B0D0000

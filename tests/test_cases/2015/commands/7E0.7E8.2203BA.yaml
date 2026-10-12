@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.2203BA
 test_cases:
 - expected_values:
-    MAZDA2_AAT_V: 1.60313
+    MAZDA_AAT_V: 1.60313
+    MAZDA_MAX_AAT_V: 1.60313
   response: 7E8056203BA0148
 - expected_values:
-    MAZDA2_AAT_V: 2.44379
+    MAZDA_AAT_V: 2.44379
+    MAZDA_MAX_AAT_V: 2.44379
   response: 7E8056203BA01F4
 - expected_values:
-    MAZDA2_AAT_V: 2.53666
+    MAZDA_AAT_V: 2.53666
+    MAZDA_MAX_AAT_V: 2.53666
   response: 7E8056203BA0207
