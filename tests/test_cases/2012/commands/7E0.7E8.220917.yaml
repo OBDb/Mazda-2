@@ -1,23 +1,23 @@
 command_id: 7E0.7E8.220917
 test_cases:
 - expected_values:
-    MAZDA_TP1_V: 0.71
+    MAZDA2_TP1_V: 0.71
   response: 7E80562091702C6
 - expected_values:
-    MAZDA_TP1_V: 0.775
+    MAZDA2_TP1_V: 0.775
   response: '7E8056209170307'
 - expected_values:
-    MAZDA_TP1_V: 0.826
+    MAZDA2_TP1_V: 0.826
   response: 7E805620917033A
 - expected_values:
-    MAZDA_TP1_V: 0.836
+    MAZDA2_TP1_V: 0.836
   response: '7E8056209170344'
 - expected_values:
-    MAZDA_TP1_V: 0.86
+    MAZDA2_TP1_V: 0.86
   response: 7E805620917035C
 - expected_values:
-    MAZDA_TP1_V: 1.082
+    MAZDA2_TP1_V: 1.082
   response: 7E805620917043A
 - expected_values:
-    MAZDA_TP1_V: 1.138
+    MAZDA2_TP1_V: 1.138
   response: '7E8056209170472'

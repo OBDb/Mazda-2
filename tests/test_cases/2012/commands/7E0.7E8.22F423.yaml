@@ -1,26 +1,26 @@
 command_id: 7E0.7E8.22F423
 test_cases:
 - expected_values:
-    MAZDA_FUEL_P: 29600
+    MAZDA2_FUEL_P: 29600
   response: 7E80562F4230128
 - expected_values:
-    MAZDA_FUEL_P: 33400
+    MAZDA2_FUEL_P: 33400
   response: 7E80562F423014E
 - expected_values:
-    MAZDA_FUEL_P: 33700
+    MAZDA2_FUEL_P: 33700
   response: 7E80562F4230151
 - expected_values:
-    MAZDA_FUEL_P: 34400
+    MAZDA2_FUEL_P: 34400
   response: 7E80562F4230158
 - expected_values:
-    MAZDA_FUEL_P: 49400
+    MAZDA2_FUEL_P: 49400
   response: 7E80562F42301EE
 - expected_values:
-    MAZDA_FUEL_P: 53900
+    MAZDA2_FUEL_P: 53900
   response: 7E80562F423021B
 - expected_values:
-    MAZDA_FUEL_P: 55200
+    MAZDA2_FUEL_P: 55200
   response: 7E80562F4230228
 - expected_values:
-    MAZDA_FUEL_P: 59000
+    MAZDA2_FUEL_P: 59000
   response: 7E80562F423024E

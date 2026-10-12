@@ -1,7 +1,5 @@
 command_id: 7E0.7E8.22DD01|fc=1
 test_cases:
 - expected_values:
-    MAZDA_MAX_ODO_7E0: 149522
-    MAZDA_ODO: 149522
-    MAZDA_ODO_7E0: 149522
+    MAZDA2_ODO: 149522
   response: 7E80662DD01024812

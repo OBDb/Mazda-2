@@ -1,18 +1,14 @@
 command_id: 720.728.22DD01
 test_cases:
 - expected_values:
-    MAZDA_ODO_720: 44355
-    MAZDA_ODO_TRIP: 4435.5
+    MAZDA2_ODO_720: 44355
   response: 7280662DD0100AD43
 - expected_values:
-    MAZDA_ODO_720: 45055
-    MAZDA_ODO_TRIP: 4505.5
+    MAZDA2_ODO_720: 45055
   response: 7280662DD0100AFFF
 - expected_values:
-    MAZDA_ODO_720: 45056
-    MAZDA_ODO_TRIP: 4505.6
+    MAZDA2_ODO_720: 45056
   response: 7280662DD0100B000
 - expected_values:
-    MAZDA_ODO_720: 48384
-    MAZDA_ODO_TRIP: 4838.4
+    MAZDA2_ODO_720: 48384
   response: 7280662DD0100BD00

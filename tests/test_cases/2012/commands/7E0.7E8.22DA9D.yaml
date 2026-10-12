@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.22DA9D
 test_cases:
 - expected_values:
-    MAZDA_BAT_INTERNAL_RES: 0.00708
+    MAZDA2_BAT_INTERNAL_RES: 0.00708
   response: 7E80562DA9D02C4

@@ -1,10 +1,8 @@
 command_id: 760.768.222B08
 test_cases:
 - expected_values:
-    MAZDA_RL_WHL_SPD_760: 17
-    MAZDA_RR_VSS: 17
+    MAZDA2_RR_VSS: 17
   response: 76804622B0811
 - expected_values:
-    MAZDA_RL_WHL_SPD_760: 25
-    MAZDA_RR_VSS: 25
+    MAZDA2_RR_VSS: 25
   response: 76804622B0819

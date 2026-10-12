@@ -1,17 +1,17 @@
-command_id: 7E0.7E8.22F4A6
+command_id: 7E0.7E8.22F4A6|f=2019-
 test_cases:
 - expected_values:
-    MAZDA_PCM_VEH_ODO: 44355.7
+    MAZDA2_PCM_VEH_ODO: 44355.7
   response: 7E80762F4A60006C4A5
 - expected_values:
-    MAZDA_PCM_VEH_ODO: 44415.9
+    MAZDA2_PCM_VEH_ODO: 44415.9
   response: 7E80762F4A60006C6FF
 - expected_values:
-    MAZDA_PCM_VEH_ODO: 44441.6
+    MAZDA2_PCM_VEH_ODO: 44441.6
   response: 7E80762F4A60006C800
 - expected_values:
-    MAZDA_PCM_VEH_ODO: 45850.3
+    MAZDA2_PCM_VEH_ODO: 45850.3
   response: 7E80762F4A60006FF07
 - expected_values:
-    MAZDA_PCM_VEH_ODO: 45876
+    MAZDA2_PCM_VEH_ODO: 45876
   response: 7E80762F4A600070008

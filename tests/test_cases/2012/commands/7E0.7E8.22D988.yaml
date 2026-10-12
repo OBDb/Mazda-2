@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.22D988
 test_cases:
 - expected_values:
-    MAZDA_BAT_ACCUMULATED_AMP: 227.675
+    MAZDA2_BAT_ACCUMULATED_AMP: 227.675
   response: 7E80562D988FFFF

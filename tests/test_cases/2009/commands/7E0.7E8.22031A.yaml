@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22031A
 test_cases:
 - expected_values:
-    MAZDA_VCT_INT_ERR: 0
+    MAZDA2_VCT_INT_ERR: 0
   response: 7E80562031A0000
 - expected_values:
-    MAZDA_VCT_INT_ERR: -0.3125
+    MAZDA2_VCT_INT_ERR: -0.3125
   response: 7E80562031AFFFB

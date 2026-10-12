@@ -1,5 +1,5 @@
 command_id: 737.225B28
 test_cases:
 - expected_values:
-    MAZDA_PASSENGER_AIRBAG: 1
+    MAZDA2_PASSENGER_AIRBAG: 1
   response: 73F07625B2802000000

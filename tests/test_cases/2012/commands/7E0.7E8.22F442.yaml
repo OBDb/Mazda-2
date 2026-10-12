@@ -1,26 +1,26 @@
 command_id: 7E0.7E8.22F442
 test_cases:
 - expected_values:
-    MAZDA_BAT_V_7E0: 12.708
+    MAZDA2_BAT_V_7E0: 12.708
   response: 7E80562F44231A4
 - expected_values:
-    MAZDA_BAT_V_7E0: 14.054
+    MAZDA2_BAT_V_7E0: 14.054
   response: 7E80562F44236E6
 - expected_values:
-    MAZDA_BAT_V_7E0: 14.128
+    MAZDA2_BAT_V_7E0: 14.128
   response: 7E80562F4423730
 - expected_values:
-    MAZDA_BAT_V_7E0: 14.14
+    MAZDA2_BAT_V_7E0: 14.14
   response: 7E80562F442373C
 - expected_values:
-    MAZDA_BAT_V_7E0: 14.246
+    MAZDA2_BAT_V_7E0: 14.246
   response: 7E80562F44237A6
 - expected_values:
-    MAZDA_BAT_V_7E0: 14.291
+    MAZDA2_BAT_V_7E0: 14.291
   response: 7E80562F44237D3
 - expected_values:
-    MAZDA_BAT_V_7E0: 14.295
+    MAZDA2_BAT_V_7E0: 14.295
   response: 7E80562F44237D7
 - expected_values:
-    MAZDA_BAT_V_7E0: 14.304
+    MAZDA2_BAT_V_7E0: 14.304
   response: 7E80562F44237E0
