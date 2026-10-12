@@ -1,4 +1,4 @@
-command_id: '730.223301'
+command_id: 730.738.223301
 test_cases:
 - expected_values:
     MAZDA_STEER_WHL_ANG: 52

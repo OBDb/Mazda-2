@@ -3,11 +3,14 @@ test_cases:
 - expected_values:
     MAZDA_BRAKE_P: 0
     MAZDA_BRK_FL_P: 0
+    MAZDA_MAX_BRK_FL_P: 0
   response: 76805622B0D0000
 - expected_values:
-    MAZDA_BRAKE_P: 65534
+    MAZDA_BRAKE_P: 21844.66667
     MAZDA_BRK_FL_P: 65534
+    MAZDA_MAX_BRK_FL_P: 65534
   response: 76805622B0DFFFE
 - expected_values:
-    MAZDA_BRK_FL_P: 65535
+    MAZDA_BRAKE_P: 21845
+    MAZDA_MAX_BRK_FL_P: 65535
   response: 76805622B0DFFFF

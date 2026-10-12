@@ -1,8 +1,5 @@
 command_id: 720.728.222A05
 test_cases:
 - expected_values:
-    MAZDA_TP_1: null
-    MAZDA_TP_1_ND: null
-    MAZDA_TP_FL: null
-    MAZDA_TP_RL: null
+    MAZDA_MX_5_TP_1_ND: 3.5
   response: 72804622A05FF

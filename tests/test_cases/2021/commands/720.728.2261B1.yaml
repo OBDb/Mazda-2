@@ -3,20 +3,25 @@ test_cases:
 - expected_values:
     MAZDA_FLV: 20
     MAZDA_FUEL_LEVEL: 20
+    MAZDA_MX_5_FLV: 20
   response: 728046261B114
 - expected_values:
     MAZDA_FLV: 21
     MAZDA_FUEL_LEVEL: 21
+    MAZDA_MX_5_FLV: 21
   response: 728046261B115
 - expected_values:
     MAZDA_FLV: 22
     MAZDA_FUEL_LEVEL: 22
+    MAZDA_MX_5_FLV: 22
   response: 728046261B116
 - expected_values:
     MAZDA_FLV: 23
     MAZDA_FUEL_LEVEL: 23
+    MAZDA_MX_5_FLV: 23
   response: 728046261B117
 - expected_values:
     MAZDA_FLV: 24
     MAZDA_FUEL_LEVEL: 24
+    MAZDA_MX_5_FLV: 24
   response: 728046261B118
