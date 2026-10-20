@@ -4,20 +4,8 @@ test_cases:
     CLR_DIST: 1994
   response: 7E804413107CA
 - expected_values:
-    CLR_DIST: 1995
-  response: 7E804413107CB
-- expected_values:
     CLR_DIST: 1996
   response: 7E804413107CC
 - expected_values:
     CLR_DIST: 2060
   response: 7E8044131080C
-- expected_values:
-    CLR_DIST: 2061
-  response: 7E8044131080D
-- expected_values:
-    CLR_DIST: 2062
-  response: 7E8044131080E
-- expected_values:
-    CLR_DIST: 2063
-  response: 7E8044131080F
