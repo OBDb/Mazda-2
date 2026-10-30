@@ -3,3 +3,27 @@ test_cases:
 - expected_values:
     MAZDA2_BRK_FL_P: 0
   response: 76805622B0D0000
+- expected_values:
+    MAZDA2_BRK_FL_P: 10
+  response: 76805622B0D000A
+- expected_values:
+    MAZDA2_BRK_FL_P: 13
+  response: 76805622B0D000D
+- expected_values:
+    MAZDA2_BRK_FL_P: 14
+  response: 76805622B0D000E
+- expected_values:
+    MAZDA2_BRK_FL_P: 15
+  response: 76805622B0D000F
+- expected_values:
+    MAZDA2_BRK_FL_P: 24
+  response: 76805622B0D0018
+- expected_values:
+    MAZDA2_BRK_FL_P: 28
+  response: 76805622B0D001C
+- expected_values:
+    MAZDA2_BRK_FL_P: 32
+  response: 76805622B0D0020
+- expected_values:
+    MAZDA2_BRK_FL_P: 34
+  response: 76805622B0D0022

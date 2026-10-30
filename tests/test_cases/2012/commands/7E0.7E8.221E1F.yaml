@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.221E1F
 test_cases:
 - expected_values:
-    MAZDA2_GEAR_ENG: 6
+    MAZDA2_GEAR_ENG: null
   response: 7E804621E1F81

@@ -266,7 +266,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "035F"}, "freq": 1, "dbgfilter": { "to": 2008, "years": [2010, 2011, 2013, 2014, 2016, 2018, 2019, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
-    {"id": "MAZDA2_RO2_V", "fmt": { "len": 16, "max": 1, "div": 1024, "unit": "volts" }, "name": "Rear O2 voltage"}
+    {"id": "MAZDA2_RO2_V", "fmt": { "len": 16, "max": 1, "min": -2, "div": 1024, "sign": true, "unit": "volts" }, "name": "Rear O2 voltage"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0378"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
@@ -290,11 +290,11 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03DC"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2016, 2018, 2019, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
-    {"id": "MAZDA2_HPFP_DES", "fmt": { "len": 16, "max": 3500, "mul": 1.4503773969, "unit": "psi" }, "name": "High pressure fuel pressure desired"}
+    {"id": "MAZDA2_HPFP_DES", "fmt": { "len": 16, "max": 10000, "mul": 1.4503773969, "unit": "psi" }, "name": "High pressure fuel pressure desired"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03E8"}, "freq": 3600, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2016, 2018, 2019, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
-    {"id": "MAZDA2_OAR", "fmt": { "len": 16, "max": 1, "div": 16384, "sign": true, "unit": "scalar" }, "name": "Octane adjust ratio"}
+    {"id": "MAZDA2_OAR", "fmt": { "len": 16, "max": 1.99, "min": -2, "div": 16384, "sign": true, "unit": "scalar" }, "name": "Octane adjust ratio"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03EC"}, "freq": 0.25, "dbgfilter": { "to": 2008, "years": [2010, 2011, 2013, 2014, 2016, 2018, 2019, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
@@ -384,7 +384,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E1F"}, "freq": 0.25, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2018, 2019, 2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
-    {"id": "MAZDA2_GEAR_ENG", "path": "Transmission", "fmt": { "len": 8, "max": 6, "unit": "scalar" }, "name": "Gear, engaged"}
+    {"id": "MAZDA2_GEAR_ENG", "path": "Transmission", "fmt": { "len": 8, "max": 255, "nullmax": 7, "unit": "scalar" }, "name": "Gear, engaged"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2028"}, "freq": 0.25, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
@@ -475,7 +475,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F411"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
-    {"id": "MAZDA2_INT_SHUTTER_VLV_POS", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 20, "div": 51, "unit": "percent" }, "name": "Intake shutter valve position"}
+    {"id": "MAZDA2_INT_SHUTTER_VLV_POS", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 20, "div": 51, "unit": "percent" }, "name": "Throttle position", "suggestedMetric": "throttlePosition"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F41F"}, "freq": 1, "dbgfilter": { "to": 2008, "years": [2010, 2011, 2013, 2014, 2016, 2018, 2019, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [

@@ -1,5 +1,14 @@
 command_id: 7E0.7E8.22F431
 test_cases:
 - expected_values:
+    MAZDA2_DIST_DTC_CLR: 77
+  response: 7E80562F431004D
+- expected_values:
+    MAZDA2_DIST_DTC_CLR: 293
+  response: 7E80562F4310125
+- expected_values:
     MAZDA2_DIST_DTC_CLR: 1995
   response: 7E80562F43107CB
+- expected_values:
+    MAZDA2_DIST_DTC_CLR: 2003
+  response: 7E80562F43107D3

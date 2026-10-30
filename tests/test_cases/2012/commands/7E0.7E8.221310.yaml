@@ -1,32 +1,14 @@
 command_id: 7E0.7E8.221310
 test_cases:
 - expected_values:
-    MAZDA2_EOT: 44.14
-  response: 7E80562131020DE
+    MAZDA2_EOT: 7.51
+  response: 7E805621310128F
 - expected_values:
-    MAZDA2_EOT: 45.35
-  response: '7E8056213102157'
+    MAZDA2_EOT: 11.19
+  response: 7E80562131013FF
 - expected_values:
-    MAZDA2_EOT: 47.68
-  response: '7E8056213102240'
+    MAZDA2_EOT: 24.01
+  response: '7E8056213101901'
 - expected_values:
-    MAZDA2_EOT: 48.92
-  response: 7E80562131022BC
-- expected_values:
-    MAZDA2_EOT: 50.15
-  response: '7E8056213102337'
-- expected_values:
-    MAZDA2_EOT: 50.72
-  response: '7E8056213102370'
-- expected_values:
-    MAZDA2_EOT: 51.5
-  response: 7E80562131023BE
-- expected_values:
-    MAZDA2_EOT: 51.86
-  response: 7E80562131023E2
-- expected_values:
-    MAZDA2_EOT: 53.3
-  response: '7E8056213102472'
-- expected_values:
-    MAZDA2_EOT: 54.8
-  response: '7E8056213102508'
+    MAZDA2_EOT: 72.92
+  response: 7E8056213102C1C
