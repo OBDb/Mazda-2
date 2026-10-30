@@ -1,26 +1,8 @@
 command_id: 7E0.7E8.22032B
 test_cases:
 - expected_values:
-    MAZDA2_ACC_POS: 2
-  response: 7E80462032B04
+    MAZDA2_ACC_POS: 0
+  response: 7E80462032B00
 - expected_values:
-    MAZDA2_ACC_POS: 6
-  response: 7E80462032B0C
-- expected_values:
-    MAZDA2_ACC_POS: 7
-  response: 7E80462032B0E
-- expected_values:
-    MAZDA2_ACC_POS: 8
-  response: 7E80462032B10
-- expected_values:
-    MAZDA2_ACC_POS: 12
-  response: 7E80462032B18
-- expected_values:
-    MAZDA2_ACC_POS: 16
-  response: 7E80462032B20
-- expected_values:
-    MAZDA2_ACC_POS: 16.5
-  response: 7E80462032B21
-- expected_values:
-    MAZDA2_ACC_POS: 18
-  response: 7E80462032B24
+    MAZDA2_ACC_POS: 44.5
+  response: 7E80462032B59

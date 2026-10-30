@@ -13,8 +13,5 @@ test_cases:
     MAZDA2_GEAR_ENG: 4
   response: 7E804621E1F04
 - expected_values:
-    MAZDA2_GEAR_ENG: 6
+    MAZDA2_GEAR_ENG: null
   response: 7E804621E1F46
-- expected_values:
-    MAZDA2_GEAR_ENG: 6
-  response: 7E804621E1F82

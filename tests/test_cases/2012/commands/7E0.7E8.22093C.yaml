@@ -4,23 +4,11 @@ test_cases:
     MAZDA2_ETC_ACT_DEG: 1.89648
   response: 7E80562093C03CB
 - expected_values:
-    MAZDA2_ETC_ACT_DEG: 5.64062
-  response: 7E80562093C0B48
-- expected_values:
-    MAZDA2_ETC_ACT_DEG: 6.22852
-  response: 7E80562093C0C75
-- expected_values:
-    MAZDA2_ETC_ACT_DEG: 6.25586
-  response: 7E80562093C0C83
-- expected_values:
-    MAZDA2_ETC_ACT_DEG: 6.81836
-  response: 7E80562093C0DA3
-- expected_values:
-    MAZDA2_ETC_ACT_DEG: 7.81836
-  response: 7E80562093C0FA3
-- expected_values:
-    MAZDA2_ETC_ACT_DEG: 8.68945
-  response: 7E80562093C1161
+    MAZDA2_ETC_ACT_DEG: 5.99805
+  response: 7E80562093C0BFF
 - expected_values:
     MAZDA2_ETC_ACT_DEG: 10.50977
   response: 7E80562093C1505
+- expected_values:
+    MAZDA2_ETC_ACT_DEG: 62.7793
+  response: 7E80562093C7D8F

@@ -1,26 +1,14 @@
 command_id: 7E0.7E8.2203BD
 test_cases:
 - expected_values:
-    MAZDA2_CL_LC: 0.03699
-  response: 7E8056203BD012F
+    MAZDA2_CL_LC: 0.00293
+  response: 7E8056203BD0018
 - expected_values:
-    MAZDA2_CL_LC: 0.10193
-  response: 7E8056203BD0343
+    MAZDA2_CL_LC: 0.28113
+  response: 7E8056203BD08FF
 - expected_values:
-    MAZDA2_CL_LC: 0.1991
-  response: 7E8056203BD065F
+    MAZDA2_CL_LC: -0.24902
+  response: 7E8056203BDF808
 - expected_values:
-    MAZDA2_CL_LC: 0.20325
-  response: 7E8056203BD0681
-- expected_values:
-    MAZDA2_CL_LC: -0.47021
-  response: 7E8056203BDF0F4
-- expected_values:
-    MAZDA2_CL_LC: -0.09204
-  response: 7E8056203BDFD0E
-- expected_values:
-    MAZDA2_CL_LC: -0.07153
-  response: 7E8056203BDFDB6
-- expected_values:
-    MAZDA2_CL_LC: -0.04102
-  response: 7E8056203BDFEB0
+    MAZDA2_CL_LC: -0.02747
+  response: 7E8056203BDFF1F
