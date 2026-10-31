@@ -1,8 +1,11 @@
 command_id: 760.768.22DD01
 test_cases:
 - expected_values:
+    MAZDA2_ABS_ODO: 146346
+  response: 7680662DD01023BAA
+- expected_values:
+    MAZDA2_ABS_ODO: 146686
+  response: 7680662DD01023CFE
+- expected_values:
     MAZDA2_ABS_ODO: 149522
   response: 7680662DD01024812
-- expected_values:
-    MAZDA2_ABS_ODO: 149523
-  response: 7680662DD01024813
