@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     MAZDA2_LAT_G_760: 0
   response: 76805622B110000
+- expected_values:
+    MAZDA2_LAT_G_760: -190
+  response: 76805622B11FF42
+- expected_values:
+    MAZDA2_LAT_G_760: -10
+  response: 76805622B11FFF6
