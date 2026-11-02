@@ -493,7 +493,7 @@
   "signals": [
     {"id": "MAZDA2_EGR", "path": "Engine", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "Exhaust gas recirculation"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F42F"}, "freq": 30, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2016, 2018, 2019, 2021, 2022, 2023, 2024], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F42F"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2016, 2018, 2019, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
     {"id": "MAZDA2_FLI", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
