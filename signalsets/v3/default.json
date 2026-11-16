@@ -218,7 +218,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0202"}, "freq": 3600, "dbgfilter": { "to": 2008, "years": [2010, 2011, 2013, 2014, 2016, 2018, 2019, 2022, 2023, 2024], "from": 2026 },
   "signals": [
-    {"id": "MAZDA2_DTC_CNTD", "path": "DTCs", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Number of DTCs"}
+    {"id": "MAZDA2_DTC_CNTD", "path": "DTCs", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Number of DTCs", "suggestedMetric": "storedDTCCount"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0301"}, "freq": 0.25, "dbgfilter": { "to": 2008, "years": [2011, 2013, 2014, 2016, 2022, 2023, 2024], "from": 2026 },
   "signals": [
@@ -455,7 +455,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40B"}, "freq": 1, "dbgfilter": { "to": 2008, "years": [2010, 2011, 2013, 2014, 2016, 2018, 2019, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
-    {"id": "MAZDA2_MAP_7E0", "path": "Engine", "fmt": { "len": 8, "max": 36, "mul": 10000, "div": 68947, "unit": "psi" }, "name": "Manifold pressure"}
+    {"id": "MAZDA2_MAP_7E0", "path": "Engine", "fmt": { "len": 8, "max": 36, "mul": 10000, "div": 68947, "unit": "psi" }, "name": "Manifold pressure", "suggestedMetric": "absoluteBoostPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40C"}, "freq": 0.25, "dbgfilter": { "to": 2008, "years": [2010, 2011, 2013, 2014, 2016, 2018, 2019, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
@@ -507,7 +507,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F433"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
-    {"id": "MAZDA2_BAROMETRIC_P", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Barometric pressure"}
+    {"id": "MAZDA2_BAROMETRIC_P", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Barometric pressure", "suggestedMetric": "barometricPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F434"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
