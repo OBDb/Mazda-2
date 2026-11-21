@@ -79,19 +79,19 @@
   "signals": [
     {"id": "MAZDA2_TQ_CONV_SLIP_621", "path": "Transmission", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "rpm" }, "name": "Torque converter slip"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A05"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2016, 2017, 2018, 2020, 2022, 2023, 2024], "from": 2026 },
+{ "hdr": "720", "rax": "728", "dbg": true, "cmd": {"22": "2A05"}, "freq": 1,
   "signals": [
     {"id": "MAZDA2_TP_1", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "nullmax": 3.5, "unit": "bars" }, "name": "Wheel 1 pressure"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A06"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2016, 2017, 2018, 2020, 2022, 2023, 2024], "from": 2026 },
+{ "hdr": "720", "rax": "728", "dbg": true, "cmd": {"22": "2A06"}, "freq": 1,
   "signals": [
     {"id": "MAZDA2_TP_2", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "nullmax": 3.5, "unit": "bars" }, "name": "Wheel 2 pressure"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A07"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2016, 2017, 2018, 2020, 2022, 2023, 2024], "from": 2026 },
+{ "hdr": "720", "rax": "728", "dbg": true, "cmd": {"22": "2A07"}, "freq": 1,
   "signals": [
     {"id": "MAZDA2_TP_3", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "nullmax": 3.5, "unit": "bars" }, "name": "Wheel 3 pressure"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A08"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2016, 2017, 2018, 2020, 2022, 2023, 2024], "from": 2026 },
+{ "hdr": "720", "rax": "728", "dbg": true, "cmd": {"22": "2A08"}, "freq": 1,
   "signals": [
     {"id": "MAZDA2_TP_4", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "nullmax": 3.5, "unit": "bars" }, "name": "Wheel 4 pressure"}
   ]},
@@ -150,7 +150,7 @@
   "signals": [
     {"id": "MAZDA2_SEAT_BUCKLE", "path": "Engine", "fmt": { "len": 8, "max": 127, "div": 2, "unit": "scalar" }, "name": "Seat buckle passenger locked"}
   ]},
-{ "hdr": "737", "rax": "73F", "cmd": {"22": "D901"}, "freq": 5, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "737", "rax": "73F", "dbg": true, "cmd": {"22": "D901"}, "freq": 5,
   "signals": [
     {"id": "MAZDA2_SRS_V_SUP", "path": "Battery", "fmt": { "len": 8, "max": 20.4, "mul": 2, "div": 25, "nullmax": 20.4, "unit": "volts" }, "name": "Voltage supply"}
   ]},
